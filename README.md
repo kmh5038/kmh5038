@@ -25,7 +25,7 @@
 
 
 ***
-### 🚀 &nbsp; Tech stacks
+### <img src="https://github.com/kmh5038/kmh5038/assets/144766297/9fcf13b8-3ac9-4657-90ed-c523024a5d9d" width="2%"> &nbsp; Tech stacks
 
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/> 
 
