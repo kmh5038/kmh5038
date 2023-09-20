@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&nbsp;My&nbsp;Page&fontSize=60)
 
-### 🙌 &nbsp;Introdution
+### <img src="https://github.com/kmh5038/kmh5038/assets/144766297/c0cf6c67-f948-4877-99f3-208d28b1c48b" width="2%"> &nbsp;Introdution
   
 #### 안녕하세요. iOS개발자를 꿈꾸며 열심히 공부중인 김명현입니다!   
 
