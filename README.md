@@ -7,7 +7,7 @@
 #### 아직 페이지가 볼품 없지만 쌓여가는 실력만큼 차곡히 채워나가겠습니다!
 
 ***
-### 🤜&nbsp; Goal
+### <img src="https://github.com/kmh5038/kmh5038/assets/144766297/c522ba9a-3028-405d-a8fd-9b4ac65e065a" width="2%">&nbsp; Goal
 </br>
 
  **1.장기적 목표**
